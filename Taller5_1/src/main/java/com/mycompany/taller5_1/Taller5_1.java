@@ -14,7 +14,6 @@ public class Taller5_1 {
                 matriz[i][j]=leer.nextInt();
             }
         }
-        
     }
     public void imprimirDiagonalSecundaria(){
         for (int k = 0;k< matriz.length; k++) {
