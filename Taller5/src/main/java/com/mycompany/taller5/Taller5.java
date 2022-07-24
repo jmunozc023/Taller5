@@ -34,7 +34,7 @@ public class Taller5 {
                     System.out.println("Sabado");
                     break;
                 case "EXIT":
-                    System.out.println("Gracias");
+                    System.out.println("Gracias, saliendo...");
                     break;    
                 
                 default:
